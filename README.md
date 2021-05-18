@@ -1,4 +1,5 @@
 This website Student_Registration_System is made by Developer Tayyab Tahir.For more details contact at tayyabtahirshah34@gmail.com.
+Create database "project" & import project.sql 
 
 Admin login details:admin@gmail.com
 password:12345
